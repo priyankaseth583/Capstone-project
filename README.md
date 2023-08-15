@@ -1,2 +1,1 @@
-# Capstone-project
-Datascience project
+# Data-Trained-Capstone-Project
